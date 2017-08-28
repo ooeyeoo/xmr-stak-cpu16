@@ -111,7 +111,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "xmr-us-east1.nanopool.org:14444",
-"wallet_address" : "44vP9ZP21YFMvo21fXYxwcYNiXno6hP9RPt2FYndW7GNGA2R3cCw6ipXAzuNnxJXtzhTAWabemNsVgEoiUsr8VHDBqqSdTa.28-5",
+"wallet_address" : "44vP9ZP21YFMvo21fXYxwcYNiXno6hP9RPt2FYndW7GNGA2R3cCw6ipXAzuNnxJXtzhTAWabemNsVgEoiUsr8VHDBqqSdTa.28-6",
 "pool_password" : "",
 
 /*
