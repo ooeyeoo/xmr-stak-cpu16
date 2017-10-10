@@ -38,6 +38,7 @@
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 11 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 12 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 13 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 14 },
 ],
 
 
@@ -110,9 +111,9 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "pool.minexmr.com:7777",
-"wallet_address" : "44vP9ZP21YFMvo21fXYxwcYNiXno6hP9RPt2FYndW7GNGA2R3cCw6ipXAzuNnxJXtzhTAWabemNsVgEoiUsr8VHDBqqSdTa.9-4-2",
-"pool_password" : "",
+"pool_address" : "pool.sumokoin.com:3333",
+"wallet_address" : "Sumoo3VNYZxgKFueTuPH5W5SexNeui9rcBpUnmc88su9WsBRwue9WDAXPoE3waoYQeVRno8gvLRXL5cTcUEde8LfiLH8Bam5Uh1",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
