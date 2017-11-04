@@ -111,8 +111,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "pool.sumokoin.com:3333",
-"wallet_address" : "Sumoo3VNYZxgKFueTuPH5W5SexNeui9rcBpUnmc88su9WsBRwue9WDAXPoE3waoYQeVRno8gvLRXL5cTcUEde8LfiLH8Bam5Uh1",
+"pool_address" : "cryptonight.eu.nicehash.com:3355",
+"wallet_address" : "34GRJfBrvczgaHde9fLwYpviweAcSA1fCS",
 "pool_password" : "x",
 
 /*
